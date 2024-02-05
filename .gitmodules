@@ -1,3 +1,0 @@
-[submodule "ImageBind"]
-	path = ImageBind
-	url = git@github.com:facebookresearch/ImageBind.git
